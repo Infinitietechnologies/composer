@@ -1,0 +1,15 @@
+{
+    "name": "infinitietechnologies/composer",
+    "autoload": {
+        "psr-4": {
+            "Infinitietechnologies\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jayparmar",
+            "email": "infinitie.jay@gmail.com"
+        }
+    ],
+    "require": {}
+}
